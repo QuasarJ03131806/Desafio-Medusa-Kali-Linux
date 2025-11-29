@@ -1,7 +1,4 @@
-# Desafio_DIO-Medusa-Kali-Linux
- Simulando um Ataque de Brute Force de Senhas com Medusa e Kali Linux
-
- # Desafio de Cibersegurança: Ataques de Força Bruta e Mitigação
+# Desafio de Cibersegurança: Ataques de Força Bruta e Mitigação
 
 Este repositório documenta a execução de um desafio prático de cibersegurança focado em ataques de força bruta (Brute Force) e medidas de prevenção. O projeto utiliza **Kali Linux** como máquina atacante e **Metasploitable 2** como alvo vulnerável, explorando serviços como FTP, Web (DVWA) e SMB.
 
@@ -63,13 +60,3 @@ Este desafio demonstrou a importância de políticas de senhas fortes e configur
 
 ---
 *Projeto desenvolvido para o Desafio de Cibersegurança da DIO.*
-
-<img width="1792" height="1137" alt="Captura de Tela 2025-11-29 às 19 09 36" src="https://github.com/user-attachments/assets/de986024-82db-4508-b270-4b053429d6df" />
-
-<img width="1680" height="1050" alt="Captura de Tela 2025-11-29 às 19 10 36" src="https://github.com/user-attachments/assets/39ff0604-46b6-40c7-aa46-ff9fbc7bef35" />
-
-<img width="1792" height="1137" alt="Captura de Tela 2025-11-29 às 19 13 43" src="https://github.com/user-attachments/assets/4a304239-d203-4864-8793-f5d83fb98574" />
-
-
-
-

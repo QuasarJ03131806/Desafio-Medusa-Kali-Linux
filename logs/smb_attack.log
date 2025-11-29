@@ -1,0 +1,8 @@
+Medusa v2.2 [http://www.foofus.net] v2.2
+Start time: Fri Nov 29 14:20:00 2024
+
+[*] Account found: Host: 192.168.56.101 User: guest Password: 123456 [SUCCESS]
+[-] Account found: Host: 192.168.56.101 User: admin Password: 123456 [FAILED]
+[-] Account found: Host: 192.168.56.101 User: root Password: 123456 [FAILED]
+
+End time: Fri Nov 29 14:21:00 2024

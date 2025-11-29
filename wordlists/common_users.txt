@@ -1,0 +1,9 @@
+admin
+root
+user
+msfadmin
+service
+guest
+test
+postgres
+mysql
