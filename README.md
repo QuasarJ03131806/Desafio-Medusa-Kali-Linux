@@ -2,6 +2,10 @@
 
 Este repositório documenta a execução de um desafio prático de cibersegurança focado em ataques de força bruta (Brute Force) e medidas de prevenção. O projeto utiliza **Kali Linux** como máquina atacante e **Metasploitable 2** como alvo vulnerável, explorando serviços como FTP, Web (DVWA) e SMB.
 
+
+Descrição do Projeto – Desafio de Cibersegurança: Força Bruta e Mitigação
+Este projeto apresenta um desafio prático de cibersegurança focado na execução e análise de ataques de força bruta em um ambiente controlado. Utilizando Kali Linux como máquina atacante e Metasploitable 2 como alvo, foram explorados serviços vulneráveis como FTP, DVWA (Web) e SMB. O repositório contém scripts, logs e documentos de mitigação que demonstram como ataques automáticos podem comprometer sistemas mal configurados e como aplicar boas práticas para reforçar a segurança, incluindo políticas de senha, hardening e controles de proteção.
+
 ## 🎯 Objetivos
 
 *   Configurar um ambiente controlado para testes de penetração.
